@@ -20,7 +20,7 @@ function Cover() {
       className="w-full h-svh bg-cover bg-center flex justify-center items-center text-center flex-col"
        style={{ backgroundImage: `url(${CoverImage})` }}
     >
-      <h1 className="text-white sm:text-8xl text-4xl font-bold">Summer Collection 2025</h1>
+      <h1 className="text-white sm:text-8xl text-4xl font-bold">Summer Collection 2026</h1>
       <p className="sm:text-3xl text-xl text-white mt-4 w-[70%]">Dive into summer with our vibrant collection of beachwear, sundresses, and accessories. Feel the warmth, embrace the style.</p>
       <div id="butns" className="flex justify-center items-center gap-6 mt-8">
         {btns.map((btn) => (
